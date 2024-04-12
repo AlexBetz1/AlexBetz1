@@ -4,6 +4,7 @@
 
 - <b> Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/alexbetz1/ActiveDirectoryLAb)
+  - [Nessus Vulnerabilities Home Lab](https://github.com/alexbetz1/NessusLab)
 
 
 <h2>📄 Certifications </h2>
