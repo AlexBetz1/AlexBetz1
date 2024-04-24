@@ -3,8 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Active Directory Home Lab </b>
-  - [Active Directory Home Lab](https://github.com/alexbetz1/ActiveDirectoryLAb)
-  - [Nessus Vulnerabilities Home Lab](https://github.com/alexbetz1/NessusLab)
+  - [Active Directory Lab](https://github.com/alexbetz1/ActiveDirectoryLAb)
+  - [Nessus Vulnerabilities Lab](https://github.com/alexbetz1/NessusLab)
+  - [Azure Sentinal SEIM Lab](https://github.com/alexbetz1/Azure-Sentinal-SIEM)
 
 
 <h2>📄 Certifications </h2>
