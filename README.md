@@ -5,7 +5,7 @@
 - <b> Active Directory Home Lab </b>
   - [Active Directory Lab](https://github.com/alexbetz1/ActiveDirectoryLAb)
   - [Nessus Vulnerabilities Lab](https://github.com/alexbetz1/NessusLab)
-  - [Azure Sentinal SEIM Lab](https://github.com/alexbetz1/Azure-Sentinel-SEIM)
+  - [Azure Sentinel SEIM Lab](https://github.com/alexbetz1/Azure-Sentinel-SEIM)
 
 
 <h2>📄 Certifications </h2>
